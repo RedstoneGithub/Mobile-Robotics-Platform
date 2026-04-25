@@ -16,9 +16,14 @@ Once complete, this repo will be updated with more media.
 - Raspberry Pi 5 16GB runs Ubuntu 24.04 with ROS 2 Jazzy
 - YDLIDAR G4 for LiDAR localization and mapping
 - RealSense D435 for obstacle detection
+
 ## Tech Specs
-- ROS2 Jazzy, running under Ubuntu 24.04 with real-time kernel
+- ROS2 Jazzy, running Ubuntu 24.04 with real-time kernel
 - Utilizing realsense-ros node and ydlidar_ros2_driver
   - In progress: Custom-built node to interface with ESP32. Current version uses Josh Newan's code to communicate with Arduino
 - Nav2 node used for navigating between points
 - slam_toolbox used for mapping
+
+## Assets
+- The V1/ folder has images and videos of the V1 robot
+- The V2/ folder has current progress of the V2 robot, such as PCB progress, chassis design and more to come!
